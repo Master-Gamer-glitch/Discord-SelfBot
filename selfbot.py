@@ -204,7 +204,7 @@ class Login(discord.Client):
 #Initialization of the Bot parameters
 intents = discord.Intents().all()
 Astraa = discord.Client(intents=intents)
-Astraa = commands.Bot(description='ATIO Tool - SelfBot created by Astraa', command_prefix=prefix, self_bot=True, intents=intents)
+Astraa = commands.Bot(description='ATIO Tool - SelfBot created by STARR CORP.', command_prefix=prefix, self_bot=True, intents=intents)
 
 Astraa.antiraid = False
 Astraa.msgsniper = True
