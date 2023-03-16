@@ -1,0 +1,11 @@
+{
+    "token": "NjMzNzI0NjE0MjI0Mzc5OTQy.G2rdrj.esmigDaiDx70OMkE-X4rtg3N2Zd4-71axbSZMw", 
+    "password": "edgy-op", //#Useful for some options
+    "prefix": "*",
+    
+    "nitro_sniper": true, //Can take the value: true or false
+    "giveaway_sniper": true,// #Can take the value: true or false
+
+    "stream_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley", //#Useful for the statue
+    "tts_language": "en" //#Set the language of the tts messages
+}
